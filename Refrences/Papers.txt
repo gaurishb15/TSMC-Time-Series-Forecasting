@@ -1,0 +1,2 @@
+For LSTM -> https://www.academia.edu/37694391/Time_series_forecasting_of_petroleum_production_using_deep_LSTM_recurrent_networks
+ARIMA-SARIMA -> https://www.degruyter.com/document/doi/10.1515/eng-2016-0033/html
